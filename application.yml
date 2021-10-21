@@ -1,1 +1,3 @@
 greeting: Hello Cloud
+demo:
+  message: Welcome Config Server on Kubernetes!
